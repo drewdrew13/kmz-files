@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+  <name>WMO 9 Locations in GoogleEarth KML format</name>
+  <open>1</open>
+  <Style id="weatherlocation_hiliteicon">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+         <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LabelStyle>
+      <scale>0.2</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="weatherlocation_normal">
+    <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+         <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LabelStyle>
+      <scale>0.2</scale>
+    </LabelStyle>
+  </Style>
+     <Style id="style0">
+      <IconStyle id="iconstyle1">
+        <scale>1.0</scale>
+      </IconStyle>
+    </Style>
+ <StyleMap id="weatherlocation">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#weatherlocation_normal</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#weatherlocation_hiliteicon</styleUrl>
+    </Pair>
+  </StyleMap>
+  <!-- Region 7 Antarctica TMYx DATA -->
+  <Placemark> id="Reg7_Antarctica_TMYx_Data">
+    <name>Reg7_Antarctica_TMYx Data</name>
+    <styleUrl>#style0</styleUrl>
+    <Point>
+     <coordinates>-56.9973,-63.3481,3.0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Penghu.island OIR TWN</name>
+    <description><![CDATA[<table><tr><td colspan="2"><b>TWN OIR Penghu.island.593460 TMYx</b></td></tr>
+       <tr><td><b>Data Source SRC-TMYx</td></tr>
+       <tr><td>NCEI ISD/ERA5 - #years=[24] Period of Record=1975-2009</td></tr>
+       <tr><td>WMO <b>593460</b></td></tr>
+       <tr><td><b>23&deg; 33.93   119&deg; 33.78</b></td></tr>
+       <tr><td>Elevation <b>21</b> m</td></tr>
+       <tr><td>Time Zone {GMT <b>+8.0</b> hours}</td></tr>
+       <tr><td>Design conditions from alternate WMO 467350</td></tr>
+       <tr><td>ASHRAE HOF 2021 Climate Zone <b>1A - Very Hot - Humid</b></td></tr>
+       <tr><td>99% Heating DB <b>13.3 C</b>, <b>55.9 F</b></td></tr>
+       <tr><td>1% Cooling DB <b>31.7 C</b>, <b>89.1 F</b></td></tr>
+       <tr><td>HDD18 <b>152</b>, CDD10 <b>4851</b></td></tr>
+       <tr><td>URL https://climate.onebuilding.org/WMO_Region_2_Asia/TWN_Taiwan/OIR_Outer_Islands_Region/TWN_OIR_Penghu.island.593460_TMYx.zip</td></tr></table>]]></description>
+   <styleUrl>#weatherlocation</styleUrl>
+   <Point>
+     <altitudeMode>absolute</altitudeMode>
+     <coordinates>119.5630,23.56550,21.0</coordinates>
+   </Point>
+  </Placemark>
+    <Placemark>
+    <name>Rayong ERG THA</name>
+    <description><![CDATA[<table><tr><td colspan="2"><b>THA ERG Rayong.484780 TMYx</b></td></tr>
+       <tr><td><b>Data Source SRC-TMYx</td></tr>
+       <tr><td>NCEI ISD/ERA5 - #years=[41] Period of Record=2009-2023</td></tr>
+       <tr><td>WMO <b>484780</b></td></tr>
+       <tr><td><b>12&deg; 38.03   101&deg; 20.40</b></td></tr>
+       <tr><td>Elevation <b>5</b> m</td></tr>
+       <tr><td>Time Zone {GMT <b>+7.0</b> hours}</td></tr>
+       <tr><td>ASHRAE HOF 2021 Climate Zone <b>0A - Extremely Hot - Humid</b></td></tr>
+       <tr><td>99% Heating DB <b>20.8 C</b>, <b>69.4 F</b></td></tr>
+       <tr><td>1% Cooling DB <b>34.2 C</b>, <b>93.6 F</b></td></tr>
+       <tr><td>HDD18 <b>0</b>, CDD10 <b>6614</b></td></tr>
+       <tr><td>URL https://climate.onebuilding.org/WMO_Region_2_Asia/THA_Thailand/ERG_Eastern/THA_ERG_Rayong.484780_TMYx.2009-2023.zip</td></tr></table>]]></description>
+   <styleUrl>#weatherlocation</styleUrl>
+   <Point>
+     <altitudeMode>absolute</altitudeMode>
+     <coordinates>101.3400,12.63390,5.0</coordinates>
+   </Point>
+  </Placemark>
+    <Placemark>
+    <name>Doha DA QAT</name>
+    <description><![CDATA[<table><tr><td colspan="2"><b>QAT DA Doha.404280 TMYx.2007-2021</b></td></tr>
+       <tr><td><b>Data Source SRC-TMYx</td></tr>
+       <tr><td>NCEI ISD/ERA5 - #years=[8] Period of Record=2009-2023</td></tr>
+       <tr><td>WMO <b>404280</b></td></tr>
+       <tr><td><b>25&deg; 16.70   51&deg; 31.76</b></td></tr>
+       <tr><td>Elevation <b>11</b> m</td></tr>
+       <tr><td>Time Zone {GMT <b>+3.0</b> hours}</td></tr>
+       <tr><td>Design conditions from weather file</td></tr>
+       <tr><td>99% Heating DB <b>12.4 C</b>, <b>54.3 F</b></td></tr>
+       <tr><td>1% Cooling DB <b>43.1 C</b>, <b>109.6 F</b></td></tr>
+       <tr><td>HDD18 <b>22</b>, CDD10 <b>6661</b></td></tr>
+       <tr><td>URL https://climate.onebuilding.org/WMO_Region_2_Asia/QAT_Qatar/QAT_DA_Doha.404280_TMYx.2009-2023.zip</td></tr></table>]]></description>
+   <styleUrl>#weatherlocation</styleUrl>
+   <Point>
+     <altitudeMode>absolute</altitudeMode>
+     <coordinates>51.52930,25.27840,11.0</coordinates>
+   </Point>
+  </Placemark>
+    <Placemark>
+    <name>Chennai.Intl.AP TN IND</name>
+    <description><![CDATA[<table><tr><td colspan="2"><b>IND TN Chennai.Intl.AP.432790 TMYx.2004-2018</b></td></tr>
+       <tr><td><b>Data Source Custom-432790</td></tr>
+       <tr><td>NCEI ISD - #years=[15] Period of Record=2009-2023</td></tr>
+       <tr><td>WMO <b>432790</b></td></tr>
+       <tr><td><b>12&deg; 59.64   80&deg; 10.86</b></td></tr>
+       <tr><td>Elevation <b>16</b> m</td></tr>
+       <tr><td>Time Zone {GMT <b>+5.5</b> hours}</td></tr>
+       <tr><td>ASHRAE HOF 2021 Climate Zone <b>0A - Extremely Hot - Humid</b></td></tr>
+       <tr><td>99% Heating DB <b>20.9 C</b>, <b>69.6 F</b></td></tr>
+       <tr><td>1% Cooling DB <b>37.9 C</b>, <b>100.2 F</b></td></tr>
+       <tr><td>HDD18 <b>0</b>, CDD10 <b>6821</b></td></tr>
+       <tr><td>URL https://climate.onebuilding.org/WMO_Region_2_Asia/IND_India/TN_Tamil_Nadu/IND_TN_Chennai.Intl.AP.432790_TMYx.2009-2023.zip</td></tr></table>]]></description>
+   <styleUrl>#weatherlocation</styleUrl>
+   <Point>
+     <altitudeMode>absolute</altitudeMode>
+     <coordinates>80.18100,12.99400,15.8</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+    <name>Georgetown DE GUY</name>
+    <description><![CDATA[<table><tr><td colspan="2"><b>GUY DE Georgetown.810010 TMYx.2009-2023</b></td></tr>
+       <tr><td><b>Data Source SRC-TMYx</td></tr>
+       <tr><td>NCEI ISD/ERA5 - #years=[15] Period of Record=2009-2023</td></tr>
+       <tr><td>WMO <b>810010</b></td></tr>
+       <tr><td><b>N 6&deg; 48.00'   W 58&deg; 9.00'</b></td></tr>
+       <tr><td>Elevation <b>2</b> m</td></tr>
+       <tr><td>Time Zone {GMT <b>-4.0</b> hours}</td></tr>
+       <tr><td>Design conditions from weather file</td></tr>
+       <tr><td>ASHRAE HOF 2021 Climate Zone <b>0A - Extremely Hot - Humid</b></td></tr>
+       <tr><td>99% Heating DB <b>23.4 C</b>, <b>74.1 F</b></td></tr>
+       <tr><td>1% Cooling DB <b>31.8 C</b>, <b>89.2 F</b></td></tr>
+       <tr><td>HDD18 <b>0</b>, CDD10 <b>6174</b></td></tr>
+       <tr><td>URL https://climate.onebuilding.org/WMO_Region_3_South_America/GUY_Guyana/GUY_DE_Georgetown.810010_TMYx.2009-2023.zip</td></tr></table>]]></description>
+   <styleUrl>#weatherlocation</styleUrl>
+   <Point>
+     <altitudeMode>absolute</altitudeMode>
+     <coordinates>-58.15000,6.80000,2.0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+    <name>Houston-Hooks.Meml.AP TX USA</name>
+    <description><![CDATA[<table><tr><td colspan="2"><b>USA TX Houston-Hooks.Meml.AP.722429 TMYx.2009-2023</b></td></tr>
+       <tr><td><b>Data Source SRC-TMYx</td></tr>
+       <tr><td>NCEI ISD/ERA5 - #years=[15] Period of Record=2009-2023</td></tr>
+       <tr><td>WMO <b>722429</b></td></tr>
+       <tr><td><b>N 30&deg; 4.08'   W 95&deg; 33.36'</b></td></tr>
+       <tr><td>Elevation <b>46</b> m</td></tr>
+       <tr><td>Time Zone {GMT <b>-6.0</b> hours}</td></tr>
+       <tr><td>ASHRAE HOF 2021 Climate Zone <b>2A - Hot - Humid</b></td></tr>
+       <tr><td>99% Heating DB <b>0.8 C</b>, <b>33.4 F</b></td></tr>
+       <tr><td>1% Cooling DB <b>35.4 C</b>, <b>95.7 F</b></td></tr>
+       <tr><td>HDD18 <b>727</b>, CDD10 <b>4059</b></td></tr>
+       <tr><td>URL https://climate.onebuilding.org/WMO_Region_4_North_and_Central_America/USA_United_States_of_America/TX_Texas/USA_TX_Houston-Hooks.Meml.AP.722429_TMYx.2009-2023.zip</td></tr></table>]]></description>
+   <styleUrl>#weatherlocation</styleUrl>
+   <Point>
+     <altitudeMode>absolute</altitudeMode>
+     <coordinates>-95.55600,30.06800,46.0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+    <name>Singapore-Changi.Intl.AP SG SGP</name>
+    <description><![CDATA[<table><tr><td colspan="2"><b>SGP SG Singapore-Changi.Intl.AP.486980 TMYx.2009-2023</b></td></tr>
+       <tr><td><b>Data Source SRC-TMYx</td></tr>
+       <tr><td>NCEI ISD/ERA5 - #years=[15] Period of Record=2009-2023</td></tr>
+       <tr><td>WMO <b>486980</b></td></tr>
+       <tr><td><b>N 1&deg; 22.07'   E 103&deg; 58.96'</b></td></tr>
+       <tr><td>Elevation <b>7</b> m</td></tr>
+       <tr><td>Time Zone {GMT <b>+8.0</b> hours}</td></tr>
+       <tr><td>ASHRAE HOF 2021 Climate Zone <b>0A - Extremely Hot - Humid</b></td></tr>
+       <tr><td>99% Heating DB <b>23.8 C</b>, <b>74.8 F</b></td></tr>
+       <tr><td>1% Cooling DB <b>33.0 C</b>, <b>91.4 F</b></td></tr>
+       <tr><td>HDD18 <b>0</b>, CDD10 <b>6552</b></td></tr>
+       <tr><td>URL https://climate.onebuilding.org/WMO_Region_5_Southwest_Pacific/SGP_Singapore/SGP_SG_Singapore-Changi.Intl.AP.486980_TMYx.2009-2023.zip</td></tr></table>]]></description>
+   <styleUrl>#weatherlocation</styleUrl>
+   <Point>
+     <altitudeMode>absolute</altitudeMode>
+     <coordinates>103.9826,1.36780,6.7</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+    <name>Darwin.Intl.AP NT AUS</name>
+    <description><![CDATA[<table><tr><td colspan="2"><b>AUS NT Darwin.Intl.AP.941200 TMYx.2009-2023</b></td></tr>
+       <tr><td><b>Data Source SRC-TMYx</td></tr>
+       <tr><td>NCEI ISD/ERA5 - #years=[15] Period of Record=2009-2023</td></tr>
+       <tr><td>WMO <b>941200</b></td></tr>
+       <tr><td><b>S 12&deg; 25.43'   E 130&deg; 53.55'</b></td></tr>
+       <tr><td>Elevation <b>31</b> m</td></tr>
+       <tr><td>Time Zone {GMT <b>+9.5</b> hours}</td></tr>
+       <tr><td>ASHRAE HOF 2021 Climate Zone <b>0A - Extremely Hot - Humid</b></td></tr>
+       <tr><td>99% Heating DB <b>18.0 C</b>, <b>64.4 F</b></td></tr>
+       <tr><td>1% Cooling DB <b>33.9 C</b>, <b>93.0 F</b></td></tr>
+       <tr><td>HDD18 <b>0</b>, CDD10 <b>6387</b></td></tr>
+       <tr><td>URL https://climate.onebuilding.org/WMO_Region_5_Southwest_Pacific/AUS_Australia/NT_Northern_Territory/AUS_NT_Darwin.Intl.AP.941200_TMYx.2009-2023.zip</td></tr></table>]]></description>
+   <styleUrl>#weatherlocation</styleUrl>
+   <Point>
+     <altitudeMode>absolute</altitudeMode>
+     <coordinates>130.8925,-12.42390,31.4</coordinates>
+   </Point>
+  </Placemark>  
+  <Placemark>
+    <name>Bergen.AP-Flesland HO NOR</name>
+    <description><![CDATA[<table><tr><td colspan="2"><b>NOR HO Bergen.AP-Flesland.013110 TMYx</b></td></tr>
+       <tr><td><b>Data Source SRC-TMYx</td></tr>
+       <tr><td>NCEI ISD/ERA5 - #years=[51] Period of Record=1973-2023</td></tr>
+       <tr><td>WMO <b>013110</b></td></tr>
+       <tr><td><b>N 60&deg; 17.35'   E 5&deg; 13.58'</b></td></tr>
+       <tr><td>Elevation <b>50</b> m</td></tr>
+       <tr><td>Time Zone {GMT <b>+0.0</b> hours}</td></tr>
+       <tr><td>ASHRAE HOF 2021 Climate Zone <b>5A - Cool - Humid</b></td></tr>
+       <tr><td>99% Heating DB <b>-5.5 C</b>, <b>22.1 F</b></td></tr>
+       <tr><td>1% Cooling DB <b>21.4 C</b>, <b>70.5 F</b></td></tr>
+       <tr><td>HDD18 <b>3748</b>, CDD10 <b>452</b></td></tr>
+       <tr><td>URL https://climate.onebuilding.org/WMO_Region_6_Europe/NOR_Norway/HO_Hordaland/NOR_HO_Bergen.AP-Flesland.013110_TMYx.zip</td></tr></table>]]></description>
+   <styleUrl>#weatherlocation</styleUrl>
+   <Point>
+     <altitudeMode>absolute</altitudeMode>
+     <coordinates>5.22640,60.28920,50.3</coordinates>
+   </Point>
+  </Placemark>
+
+</Document>
+</kml>
