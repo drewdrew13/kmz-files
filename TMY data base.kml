@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>TMY Data Base</name>
+
+    <Placemark>
+        <name>Singapore-Changi.Intl.AP</name>
+        <visibility>0</visibility>
+        <description><![CDATA[
+            <table>
+                <tr><td><b>Region</b></td><td><b>Asia</b></td></tr>
+                <tr><td><b>Country</b></td><td><b>SGP</b></td></tr>
+                <tr><td><b>State</b></td><td><b>SG</b></td></tr>
+                <tr><td><b>Source Data</b></td><td><b>SRC-TMYx</b></td></tr>
+                <tr><td><b>WMO</b></td><td><b>486980</b></td></tr>
+                <tr><td><b>Annual Precipitation (mm)</b></td><td><b>2539</b></td></tr>
+                <tr><td><b>Rain Days</b></td><td><b>195</b></td></tr>
+                <tr><td><b>TMY Data</b></td><td><a href="https://github.com/drewdrew13/kmz-files/blob/main/SGP_SG_Singapore-Changi.Intl.AP.486980_TMYx.2009-2023.epw">Click here</a></td></tr>
+		<tr><td><b>Download URL</b></td><td><a href="https://climate.onebuilding.org/WMO_Region_5_Southwest_Pacific/SGP_Singapore/SGP_SG_Singapore-Changi.Intl.AP.486980_TMYx.2009-2023.zip">Click here</a></td></tr>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>                
+            </table>
+
+            <table border="2" width="425">
+                <tr><th>Annual Value</th><th>Amb. Temperature °C</th><th>Dew Temperature °C</th><th>Wind Speed (m/s)</th><th>Relative Humidity (%)</th></tr>
+                <tr><td>Average</td><td align="right">28.0</td><td align="right">24.3</td><td align="right">2.5</td><td align="right">81.5</td></tr>
+                <tr><td>Median</td><td align="right">28.0</td><td align="right">24.1</td><td align="right">2.1</td><td align="right">84.0</td></tr>
+                <tr><td>Max</td><td align="right">34.0</td><td align="right">29.9</td><td align="right">10.3</td><td align="right">100.0</td></tr>
+                <tr><td>Min</td><td align="right">22.4</td><td align="right">19.0</td><td align="right">0.0</td><td align="right">49.0</td></tr>
+            </table>
+        ]]></description>
+        <Point>
+            <coordinates>103.9826,1.3678,6.7</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Darwin.Intl.AP</name>
+        <visibility>0</visibility>
+        <description><![CDATA[
+            <table>
+                <tr><td><b>Region</b></td><td><b>Southwest Pacific</b></td></tr>
+                <tr><td><b>Country</b></td><td><b>AUS</b></td></tr>
+                <tr><td><b>State</b></td><td><b>NT</b></td></tr>
+                <tr><td><b>Source Data</b></td><td><b>SRC-TMYx</b></td></tr>
+                <tr><td><b>WMO</b></td><td><b>941200</b></td></tr>
+                <tr><td><b>Annual Precipitation (mm)</b></td><td><b>1611</b></td></tr>
+                <tr><td><b>Rain Days</b></td><td><b>90</b></td></tr>
+                <tr><td><b>TMY Data</b></td><td><a href="https://github.com/drewdrew13/kmz-files/blob/main/AUS_NT_Darwin.Intl.AP.941200_TMYx.2009-2023.epw">Click here</a></td></tr>
+		<tr><td><b>Download URL</b></td><td><a href="https://climate.onebuilding.org/WMO_Region_5_Southwest_Pacific/AUS_Australia/NT_Northern_Territory/AUS_NT_Darwin.Intl.AP.941200_TMYx.2009-2023.zip">Click here</a></td></tr>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>                
+            </table>
+
+            <table border="2" width="425">
+                <tr><th>Annual Value</th><th>Amb. Temperature °C</th><th>Dew Temperature °C</th><th>Wind Speed (m/s)</th><th>Relative Humidity (%)</th></tr>
+                <tr><td>Average</td><td align="right">27.5</td><td align="right">20.6</td><td align="right">3.8</td><td align="right">69.1</td></tr>
+                <tr><td>Median</td><td align="right">27.7</td><td align="right">22.4</td><td align="right">3.6</td><td align="right">73.0</td></tr>
+                <tr><td>Max</td><td align="right">36.8</td><td align="right">30.0</td><td align="right">22.1</td><td align="right">100.0</td></tr>
+                <tr><td>Min</td><td align="right">14.0</td><td align="right">-0.8</td><td align="right">0.0</td><td align="right">17.0</td></tr>
+            </table>
+        ]]></description>
+        <Point>
+            <coordinates>130.8925,-12.4239,31.4</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Penghu.island</name>
+        <visibility>0</visibility>
+        <description><![CDATA[
+            <table>
+                <tr><td><b>Region</b></td><td><b>Asia</b></td></tr>
+                <tr><td><b>Country</b></td><td><b>TWN</b></td></tr>
+                <tr><td><b>State</b></td><td><b>OIR</b></td></tr>
+                <tr><td><b>Source Data</b></td><td><b>SRC-TMYx</b></td></tr>
+                <tr><td><b>WMO</b></td><td><b>593460</b></td></tr>
+                <tr><td><b>Annual Precipitation (mm)</b></td><td><b>1469</b></td></tr>
+                <tr><td><b>Rain Days</b></td><td><b>88</b></td></tr>
+                <tr><td><b>TMY Data</b></td><td><a href="https://github.com/drewdrew13/kmz-files/blob/main/TWN_OIR_Penghu.island.593460_TMYx.epw">Click here</a></td></tr>
+		<tr><td><b>Download URL</b></td><td><a href="https://climate.onebuilding.org/WMO_Region_2_Asia/TWN_Taiwan/OIR_Outer_Islands_Region/TWN_OIR_Penghu.island.593460_TMYx.zip">Click here</a></td></tr>		
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>                
+            </table>
+
+            <table border="2" width="425">
+                <tr><th>Annual Value</th><th>Amb. Temperature °C</th><th>Dew Temperature °C</th><th>Wind Speed (m/s)</th><th>Relative Humidity (%)</th></tr>
+                <tr><td>Average</td><td align="right">23.2</td><td align="right">20.0</td><td align="right">5.1</td><td align="right">82.3</td></tr>
+                <tr><td>Median</td><td align="right">24.0</td><td align="right">21.0</td><td align="right">4.6</td><td align="right">83.0</td></tr>
+                <tr><td>Max</td><td align="right">33.3</td><td align="right">30.0</td><td align="right">31.4</td><td align="right">100.0</td></tr>
+                <tr><td>Min</td><td align="right">9.0</td><td align="right">-0.6</td><td align="right">0.0</td><td align="right">41.0</td></tr>
+            </table>
+        ]]></description>
+        <Point>
+            <coordinates>119.563,23.5655,21.0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Rayong</name>
+        <visibility>0</visibility>
+        <description><![CDATA[
+            <table>
+                <tr><td><b>Region</b></td><td><b>Asia</b></td></tr>
+                <tr><td><b>Country</b></td><td><b>THA</b></td></tr>
+                <tr><td><b>State</b></td><td><b>ERG</b></td></tr>
+                <tr><td><b>Source Data</b></td><td><b>SRC-TMYx</b></td></tr>
+                <tr><td><b>WMO</b></td><td><b>484780</b></td></tr>
+                <tr><td><b>Annual Precipitation (mm)</b></td><td><b>1859</b></td></tr>
+                <tr><td><b>Rain Days</b></td><td><b>136</b></td></tr>
+                <tr><td><b>TMY Data</b></td><td><a href="https://github.com/drewdrew13/kmz-files/blob/main/THA_ERG_Rayong.484780_TMYx.2009-2023.epw">Click here</a></td></tr>
+		<tr><td><b>Download URL</b></td><td><a href="https://climate.onebuilding.org/WMO_Region_2_Asia/THA_Thailand/ERG_Eastern/THA_ERG_Rayong.484780_TMYx.2009-2023.zip">Click here</a></td></tr>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>                
+            </table>
+
+            <table border="2" width="425">
+                <tr><th>Annual Value</th><th>Amb. Temperature °C</th><th>Dew Temperature °C</th><th>Wind Speed (m/s)</th><th>Relative Humidity (%)</th></tr>
+                <tr><td>Average</td><td align="right">28.4</td><td align="right">24.0</td><td align="right">1.5</td><td align="right">77.6</td></tr>
+                <tr><td>Median</td><td align="right">29.0</td><td align="right">24.8</td><td align="right">1.0</td><td align="right">78.0</td></tr>
+                <tr><td>Max</td><td align="right">34.0</td><td align="right">28.9</td><td align="right">9.3</td><td align="right">98.0</td></tr>
+                <tr><td>Min</td><td align="right">18.6</td><td align="right">11.9</td><td align="right">0.0</td><td align="right">39.0</td></tr>
+            </table>
+        ]]></description>
+        <Point>
+            <coordinates>101.34,12.6339,5.0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Doha</name>
+        <visibility>0</visibility>
+        <description><![CDATA[
+            <table>
+                <tr><td><b>Region</b></td><td><b>Asia</b></td></tr>
+                <tr><td><b>Country</b></td><td><b>QAT</b></td></tr>
+                <tr><td><b>State</b></td><td><b>DA</b></td></tr>
+                <tr><td><b>Source Data</b></td><td><b>SRC-TMYx</b></td></tr>
+                <tr><td><b>WMO</b></td><td><b>404280</b></td></tr>
+                <tr><td><b>Annual Precipitation (mm)</b></td><td><b>13</b></td></tr>
+                <tr><td><b>Rain Days</b></td><td><b>2</b></td></tr>
+                <tr><td><b>TMY Data</b></td><td><a href="https://github.com/drewdrew13/kmz-files/blob/main/QAT_DA_Doha.404280_TMYx.2009-2023.epw">Click here</a></td></tr>
+		<tr><td><b>Download URL</b></td><td><a href="https://climate.onebuilding.org/WMO_Region_2_Asia/QAT_Qatar/QAT_DA_Doha.404280_TMYx.2009-2023.zip">Click here</a></td></tr>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>                
+            </table>
+
+            <table border="2" width="425">
+                <tr><th>Annual Value</th><th>Amb. Temperature °C</th><th>Dew Temperature °C</th><th>Wind Speed (m/s)</th><th>Relative Humidity (%)</th></tr>
+                <tr><td>Average</td><td align="right">28.3</td><td align="right">17.7</td><td align="right">4.1</td><td align="right">55.5</td></tr>
+                <tr><td>Median</td><td align="right">29.0</td><td align="right">17.8</td><td align="right">3.6</td><td align="right">56.0</td></tr>
+                <tr><td>Max</td><td align="right">46.0</td><td align="right">32.5</td><td align="right">13.4</td><td align="right">98.0</td></tr>
+                <tr><td>Min</td><td align="right">10.0</td><td align="right">-1.1</td><td align="right">0.0</td><td align="right">14.0</td></tr>
+            </table>
+        ]]></description>
+        <Point>
+            <coordinates>51.5293,25.2784,11.0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Chennai.Intl.AP</name>
+        <visibility>0</visibility>
+        <description><![CDATA[
+            <table>
+                <tr><td><b>Region</b></td><td><b>Asia</b></td></tr>
+                <tr><td><b>Country</b></td><td><b>IND</b></td></tr>
+                <tr><td><b>State</b></td><td><b>TN</b></td></tr>
+                <tr><td><b>Source Data</b></td><td><b>SRC-TMYx</b></td></tr>
+                <tr><td><b>WMO</b></td><td><b>432790</b></td></tr>
+                <tr><td><b>Annual Precipitation (mm)</b></td><td><b>988</b></td></tr>
+                <tr><td><b>Rain Days</b></td><td><b>76</b></td></tr>
+                <tr><td><b>TMY Data</b></td><td><a href="https://github.com/drewdrew13/kmz-files/blob/main/IND_TN_Chennai.Intl.AP.432790_TMYx.2009-2023.epw">Click here</a></td></tr>
+		<tr><td><b>Download URL</b></td><td><a href="https://climate.onebuilding.org/WMO_Region_2_Asia/IND_India/TN_Tamil_Nadu/IND_TN_Chennai.Intl.AP.432790_TMYx.2009-2023.zip">Click here</a></td></tr>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>                
+            </table>
+
+            <table border="2" width="425">
+                <tr><th>Annual Value</th><th>Amb. Temperature °C</th><th>Dew Temperature °C</th><th>Wind Speed (m/s)</th><th>Relative Humidity (%)</th></tr>
+                <tr><td>Average</td><td align="right">29.0</td><td align="right">23.4</td><td align="right">2.6</td><td align="right">73.8</td></tr>
+                <tr><td>Median</td><td align="right">29.0</td><td align="right">24.0</td><td align="right">2.6</td><td align="right">75.0</td></tr>
+                <tr><td>Max</td><td align="right">42.0</td><td align="right">32.9</td><td align="right">18.0</td><td align="right">100.0</td></tr>
+                <tr><td>Min</td><td align="right">19.0</td><td align="right">13.9</td><td align="right">0.0</td><td align="right">28.0</td></tr>
+            </table>
+        ]]></description>
+        <Point>
+            <coordinates>80.181,12.994,15.8</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Bergen.AP-Flesland</name>
+        <visibility>0</visibility>
+        <description><![CDATA[
+            <table>
+                <tr><td><b>Region</b></td><td><b>Europe</b></td></tr>
+                <tr><td><b>Country</b></td><td><b>NOR</b></td></tr>
+                <tr><td><b>State</b></td><td><b>HO</b></td></tr>
+                <tr><td><b>Source Data</b></td><td><b>SRC-TMYx</b></td></tr>
+                <tr><td><b>WMO</b></td><td><b>13110</b></td></tr>
+                <tr><td><b>Annual Precipitation (mm)</b></td><td><b>2060</b></td></tr>
+                <tr><td><b>Rain Days</b></td><td><b>154</b></td></tr>
+                <tr><td><b>TMY Data</b></td><td><a href="https://github.com/drewdrew13/kmz-files/blob/main/NOR_HO_Bergen.AP-Flesland.013110_TMYx.epw">Click here</a></td></tr>
+		<tr><td><b>Download URL</b></td><td><a href="https://climate.onebuilding.org/WMO_Region_6_Europe/NOR_Norway/HO_Hordaland/NOR_HO_Bergen.AP-Flesland.013110_TMYx.zip">Click here</a></td></tr>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>                
+            </table>
+
+            <table border="2" width="425">
+                <tr><th>Annual Value</th><th>Amb. Temperature °C</th><th>Dew Temperature °C</th><th>Wind Speed (m/s)</th><th>Relative Humidity (%)</th></tr>
+                <tr><td>Average</td><td align="right">7.7</td><td align="right">4.4</td><td align="right">3.7</td><td align="right">81.2</td></tr>
+                <tr><td>Median</td><td align="right">7.5</td><td align="right">4.2</td><td align="right">3.0</td><td align="right">85.0</td></tr>
+                <tr><td>Max</td><td align="right">26.2</td><td align="right">17.0</td><td align="right">15.4</td><td align="right">100.0</td></tr>
+                <tr><td>Min</td><td align="right">-10.5</td><td align="right">-11.9</td><td align="right">0.0</td><td align="right">20.0</td></tr>
+            </table>
+        ]]></description>
+        <Point>
+            <coordinates>5.2264,60.2892,50.3</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Houston-Hooks.Meml.AP</name>
+        <visibility>0</visibility>
+        <description><![CDATA[
+            <table>
+                <tr><td><b>Region</b></td><td><b>North and Central America</b></td></tr>
+                <tr><td><b>Country</b></td><td><b>USA</b></td></tr>
+                <tr><td><b>State</b></td><td><b>TX</b></td></tr>
+                <tr><td><b>Source Data</b></td><td><b>SRC-TMYx</b></td></tr>
+                <tr><td><b>WMO</b></td><td><b>722429</b></td></tr>
+                <tr><td><b>Annual Precipitation (mm)</b></td><td><b>1132</b></td></tr>
+                <tr><td><b>Rain Days</b></td><td><b>68</b></td></tr>
+                <tr><td><b>TMY Data</b></td><td><a href="https://github.com/drewdrew13/kmz-files/blob/main/USA_TX_Houston-Hooks.Meml.AP.722429_TMYx.2009-2023.epw">Click here</a></td></tr>
+		<tr><td><b>Download URL</b></td><td><a href="https://climate.onebuilding.org/WMO_Region_4_North_and_Central_America/USA_United_States_of_America/TX_Texas/USA_TX_Houston-Hooks.Meml.AP.722429_TMYx.2009-2023.zip">Click here</a></td></tr>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>                
+            </table>
+
+            <table border="2" width="425">
+                <tr><th>Annual Value</th><th>Amb. Temperature °C</th><th>Dew Temperature °C</th><th>Wind Speed (m/s)</th><th>Relative Humidity (%)</th></tr>
+                <tr><td>Average</td><td align="right">20.9</td><td align="right">14.7</td><td align="right">2.6</td><td align="right">71.1</td></tr>
+                <tr><td>Median</td><td align="right">22.2</td><td align="right">17.2</td><td align="right">2.6</td><td align="right">75.0</td></tr>
+                <tr><td>Max</td><td align="right">40.6</td><td align="right">29.0</td><td align="right">11.8</td><td align="right">100.0</td></tr>
+                <tr><td>Min</td><td align="right">-1.7</td><td align="right">-10.6</td><td align="right">0.0</td><td align="right">14.0</td></tr>
+            </table>
+        ]]></description>
+        <Point>
+            <coordinates>-95.556,30.068,46.0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Georgetown</name>
+        <visibility>0</visibility>
+        <description><![CDATA[
+            <table>
+                <tr><td><b>Region</b></td><td><b>South America</b></td></tr>
+                <tr><td><b>Country</b></td><td><b>GUY</b></td></tr>
+                <tr><td><b>State</b></td><td><b>DE</b></td></tr>
+                <tr><td><b>Source Data</b></td><td><b>SRC-TMYx</b></td></tr>
+                <tr><td><b>WMO</b></td><td><b>810010</b></td></tr>
+                <tr><td><b>Annual Precipitation (mm)</b></td><td><b>2465</b></td></tr>
+                <tr><td><b>Rain Days</b></td><td><b>237</b></td></tr>
+                <tr><td><b>TMY Data</b></td><td><a href="https://github.com/drewdrew13/kmz-files/blob/main/GUY_DE_Georgetown.810010_TMYx.2009-2023.epw">Click here</a></td></tr>
+		<tr><td><b>Download URL</b></td><td><a href="https://climate.onebuilding.org/WMO_Region_3_South_America/GUY_Guyana/GUY_DE_Georgetown.810010_TMYx.2009-2023.zip">Click here</a></td></tr>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>                
+            </table>
+
+            <table border="2" width="425">
+                <tr><th>Annual Value</th><th>Amb. Temperature °C</th><th>Dew Temperature °C</th><th>Wind Speed (m/s)</th><th>Relative Humidity (%)</th></tr>
+                <tr><td>Average</td><td align="right">26.9</td><td align="right">23.7</td><td align="right">4.0</td><td align="right">83.0</td></tr>
+                <tr><td>Median</td><td align="right">26.6</td><td align="right">23.8</td><td align="right">4.0</td><td align="right">84.0</td></tr>
+                <tr><td>Max</td><td align="right">33.1</td><td align="right">26.7</td><td align="right">10.0</td><td align="right">100.0</td></tr>
+                <tr><td>Min</td><td align="right">22.4</td><td align="right">19.4</td><td align="right">0.0</td><td align="right">59.0</td></tr>
+            </table>
+        ]]></description>
+        <Point>
+            <coordinates>-58.15,6.8,2.0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Terrace.AP</name>
+        <visibility>0</visibility>
+        <description><![CDATA[
+            <table>
+                <tr><td><b>Region</b></td><td><b>North and Central America</b></td></tr>
+                <tr><td><b>Country</b></td><td><b>CAN</b></td></tr>
+                <tr><td><b>State</b></td><td><b>BC</b></td></tr>
+                <tr><td><b>Source Data</b></td><td><b>SRC-TMYx</b></td></tr>
+                <tr><td><b>WMO</b></td><td><b>719510</b></td></tr>
+                <tr><td><b>Annual Precipitation (mm)</b></td><td><b>1727</b></td></tr>
+                <tr><td><b>Rain Days</b></td><td><b>171</b></td></tr>
+                <tr><td><b>TMY Data</b></td><td><a href="https://github.com/drewdrew13/kmz-files/blob/main/CAN_BC_Terrace.AP.719510_TMYx.2009-2023.epw">Click here</a></td></tr>
+		<tr><td><b>Download URL</b></td><td><a href="https://climate.onebuilding.org/WMO_Region_4_North_and_Central_America/CAN_Canada/BC_British_Columbia/CAN_BC_Terrace.AP.719510_TMYx.2009-2023.zip">Click here</a></td></tr>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>                
+            </table>
+
+            <table border="2" width="425">
+                <tr><th>Annual Value</th><th>Amb. Temperature °C</th><th>Dew Temperature °C</th><th>Wind Speed (m/s)</th><th>Relative Humidity (%)</th></tr>
+                <tr><td>Average</td><td align="right">5.5</td><td align="right">2.1</td><td align="right">4.2</td><td align="right">78.8</td></tr>
+                <tr><td>Median</td><td align="right">3.8</td><td align="right">1.3</td><td align="right">3.6</td><td align="right">82.0</td></tr>
+                <tr><td>Max</td><td align="right">31.0</td><td align="right">19.8</td><td align="right">28.8</td><td align="right">100.0</td></tr>
+                <tr><td>Min</td><td align="right">-15.0</td><td align="right">-24.0</td><td align="right">0.0</td><td align="right">23.0</td></tr>
+            </table>
+        ]]></description>
+        <Point>
+            <coordinates>-128.5775,54.4664,217.3</coordinates>
+        </Point>
+    </Placemark>
+
+</Document>
+</kml>
